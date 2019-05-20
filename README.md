@@ -1,2 +1,2 @@
 # BinarySearch
-Implementing Binary search algorithm using javascript.
+Implementing Binary search algorithm (in an array) using javascript.
